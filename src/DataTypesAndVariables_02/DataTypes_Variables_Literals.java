@@ -1,4 +1,4 @@
-package Introduction_01;
+package DataTypesAndVariables_02;
 
 public class DataTypes_Variables_Literals {
     public static void main(String[] args) {
